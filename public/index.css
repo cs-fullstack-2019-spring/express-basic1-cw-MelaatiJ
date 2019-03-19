@@ -1,0 +1,11 @@
+
+/* make the header center and color red */
+.header{
+    text-align: center;
+    color: red;
+}
+
+/* back ground blue */
+body{
+    background-color: blue;
+}
